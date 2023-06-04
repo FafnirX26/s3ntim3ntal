@@ -9,3 +9,4 @@ the model is too big to upload to github, so you need to:
 * if you dont want all that, feel free to just look at the ipynb file and see how the model is created and used
 
 (EDIT: the model is linked here for download: https://drive.google.com/file/d/1BnYfuBo_RmYn7c1_1Er9F93Tq27_JSfw/view?usp=sharing)
+Kaggle Database: https://www.kaggle.com/datasets/bittlingmayer/amazonreviews?resource=download
