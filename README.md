@@ -10,4 +10,5 @@ the model is too big to upload to github, so you need to:
 
 (EDIT: the model is linked here for download: https://drive.google.com/file/d/1BnYfuBo_RmYn7c1_1Er9F93Tq27_JSfw/view?usp=sharing) \
 Kaggle Database: https://www.kaggle.com/datasets/bittlingmayer/amazonreviews?resource=download \
-will add link to replit where model and program are located together, to allow super easy demo use
+will add link to replit where model and program are located together, to allow super easy demo use /
+repl: https://replit.com/@RaviLakkireddy/sentimentalmain?v=1
