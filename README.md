@@ -12,3 +12,5 @@ the model is too big to upload to github, so you need to:
 Kaggle Database: https://www.kaggle.com/datasets/bittlingmayer/amazonreviews?resource=download \
 will add link to replit where model and program are located together, to allow super easy demo use /
 repl: https://replit.com/@RaviLakkireddy/sentimentalmain?v=1
+
+new update plan: struggles with shorter reviews, so looking to add a manual list of keywords that will switch positive to negative or negative to positive (still writing algorithm)
